@@ -1,0 +1,5 @@
+Brief Introduction About Myself 
+My name is Omilade Samuel, and I am a graduate student in Computer Science. I have a strong interest in technology, innovation,
+and problem-solving, which has driven me to pursue projects such as developing a Hotel Management System using Java and MySQL. 
+I am also part of the ALX Pathway program, where I continue to grow my technical and leadership skills.
+I am passionate about continuous learning, teamwork, and using technology to create meaningful solutions that improve lives.
